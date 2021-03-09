@@ -11,14 +11,14 @@ If you building your monitoring from zero, this list will guide you through all 
 4. [Network](#Network)
 5. [Other software](#Software)  
   5.1 [MySQL](#MySQL)  
-  4.2 [PostgreSQL](##PostgreSQL)  
-  5.2 [PHP-FPM](##PHP-FPM)  
-  5.3 [Nginx](##Nginx)  
-  5.4 [Apache2](##Apache2)  
-  5.5 [HAProxy](##HAProxy)  
-  5.6 [RabbitMQ](##RabbitMQ)  
-  5.7 [Memcached](##Memcached)  
-  5.8 [Docker](##Docker)  
+  5.2 [PostgreSQL](#PostgreSQL)  
+  5.3 [PHP-FPM](#PHP-FPM)  
+  5.4 [Nginx](#Nginx)  
+  5.5 [Apache2](#Apache2)  
+  5.6 [HAProxy](#HAProxy)  
+  5.7 [RabbitMQ](#RabbitMQ)  
+  5.8 [Memcached](#Memcached)  
+  5.9 [Docker](#Docker)  
 
 
 
